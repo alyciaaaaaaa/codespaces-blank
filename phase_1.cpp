@@ -32,6 +32,10 @@ int main()
     cout << "student name  : " << name << "\n";
     cout << "age           : " << age << "\n";
 
+    //variable name and const
+    string _name = "Namkhingggg";
+    cout << _name << endl;
 
+    //operator
 
 }
